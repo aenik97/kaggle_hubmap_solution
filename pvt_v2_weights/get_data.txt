@@ -1,2 +1,2 @@
-# pvt_v2_b4 weights can be downloded here
-# https://github.com/whai362/PVT/releases/tag/v2
+pvt_v2_b4 weights can be downloaded here
+https://github.com/whai362/PVT/releases/tag/v2
